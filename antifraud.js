@@ -1,0 +1,1 @@
+// antifraud.js content
